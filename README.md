@@ -1,14 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mansi Nishad</h1>
-<h3 align="center">🚀 Aspiring Data Analyst | Turning Data into Insights 📊</h3>
-
-<!-- HERO VISUAL (clean + data vibe) -->
+<!-- PREMIUM TOP BANNER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="420"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=200&section=header&text=Mansi%20Nishad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20|%20Turning%20Data%20into%20Insights&descAlignY=55&descAlign=50"/>
 </p>
 
-<p align="center">
-✨ Transforming Data into Decisions | Passionate Learner | Future Data Analyst ✨
-</p>
+<h3 align="center">📊 Turning Data into Insights | Passionate Data Analyst</h3>
 
 ---
 
@@ -16,9 +11,8 @@
 - 🔭 Working on **Data Analytics Projects**
 - 🌱 Learning **Python, Data Visualization & Analytics**
 - 🧠 Tools: **Jupyter Notebook (Anaconda), MySQL Workbench**
-- 📊 Focus: **Data Analysis | Dashboarding | Insights**
+- 📊 Focus: **Dashboarding | Data Analysis | Insights**
 - ⚡ I enjoy turning raw data into meaningful stories
-- 💬 Ask me about **SQL, Excel, Python**
 - 📫 **mansinishad123123@gmail.com**
 
 ---
@@ -27,27 +21,27 @@
 
 <table align="center">
 <tr>
-<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40"/><br>Power BI</td>
-<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="40"/><br>Excel</td>
-<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="40"/><br>Pandas</td>
-<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40"/><br>NumPy</td>
-<td align="center"><img src="https://matplotlib.org/_static/images/logo2.svg" width="40"/><br>Matplotlib</td>
-<td align="center"><img src="https://scipy.org/images/logo.svg" width="40"/><br>SciPy</td>
+<td align="center">Power BI</td>
+<td align="center">Excel</td>
+<td align="center">Pandas</td>
+<td align="center">NumPy</td>
+<td align="center">Matplotlib</td>
+<td align="center">SciPy</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/><br>MySQL</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/><br>SQLite</td>
-<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Anaconda_Logo.png" width="40"/><br>Anaconda</td>
-<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40"/><br>Jupyter</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br>Git</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/><br>GitHub</td>
+<td align="center">MySQL</td>
+<td align="center">SQLite</td>
+<td align="center">Anaconda</td>
+<td align="center">Jupyter</td>
+<td align="center">Git</td>
+<td align="center">GitHub</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://img.icons8.com/color/48/ms-excel.png" width="40"/><br>Advanced Excel</td>
-<td align="center"><img src="https://img.icons8.com/color/48/ms-excel.png" width="40"/><br>VBA</td>
-<td align="center"><img src="https://img.icons8.com/ios-filled/50/web.png" width="40"/><br>Web Scraping</td>
+<td align="center">Advanced Excel</td>
+<td align="center">VBA</td>
+<td align="center">Web Scraping</td>
 <td></td><td></td><td></td>
 </tr>
 </table>
@@ -57,7 +51,7 @@
 ## 📊 Skill Visualization
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['SQL','Excel','Python','Power BI','Data Viz'],datasets:[{label:'Skills',data:[85,90,80,78,88]}]}}" width="500"/>
+  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['SQL','Excel','Python','Power BI','Data Viz'],datasets:[{label:'Skill Level',backgroundColor:'rgba(0,247,255,0.5)',borderColor:'#00F7FF',data:[85,90,80,78,88]}]}}" width="500"/>
 </p>
 
 ---
@@ -65,47 +59,28 @@
 ## 💡 What I Do
 - 📊 Build dashboards that tell stories  
 - 🧹 Clean & transform messy data  
-- 📈 Turn data into actionable insights  
+- 📈 Generate actionable insights  
 
 ---
 
 ## 📂 Featured Projects
 
-### 📊 Sales Analysis Dashboard (Excel)
-
-✔ Interactive filters & slicers  
-✔ KPI tracking (Revenue, Profit)  
-✔ Business insights  
-
+### 📊 Sales Analysis Dashboard
 🔗 https://github.com/Mansi-Nishad/Sales-Analysis-Dashboard-Excel
 
 ---
 
-### 📈 Interactive Dashboard (Excel)
-
-✔ Dynamic charts  
-✔ Data visualization  
-✔ Dashboard design  
-
+### 📈 Interactive Dashboard
 🔗 https://github.com/Mansi-Nishad/Interactive-Dashboard-Excel
 
 ---
 
 ### 🌍 Excel Mini Project
-
-✔ Dropdown-based selection  
-✔ Real-time output  
-
 🔗 https://github.com/Mansi-Nishad/Excel-Mini-Project
 
 ---
 
-### 🏦 Banking Simulator (Python)
-
-✔ Login authentication  
-✔ Transactions system  
-✔ SQLite database  
-
+### 🏦 Banking Simulator
 🔗 https://github.com/Mansi-Nishad/Banking_Simulator-
 
 ---
