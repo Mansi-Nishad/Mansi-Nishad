@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Mansi Nishad</h1>
 
-<h3 align="center">
-🚀 Aspiring Data Analyst | Turning Data into Insights 📊
-</h3>
+<h3 align="center">🚀 Aspiring Data Analyst | Turning Data into Insights 📊</h3>
 
+<!-- HERO GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Analytics+Enthusiast;SQL+%7C+Excel+%7C+Python+%7C+Power+BI;Building+Projects+That+Solve+Real+Problems" />
+  <img src="https://media.giphy.com/media/6KirhLJyR7oMcwgJQk/giphy.gif" width="420"/>
 </p>
 
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e5adea1a-2b7e-4a01-a69f-512efec4b0d9" width="220"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Analytics+Enthusiast;SQL+%7C+Excel+%7C+Python+%7C+Power+BI;Building+Real+World+Projects" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 - 🔭 Working on **Data Analytics Projects**
-- 🌱 Learning **Advanced Analytics & Visualization**
+- 🌱 Learning **Python, Visualization & Analytics Tools**
 - 🧠 Tools: **Jupyter Notebook (Anaconda), MySQL Workbench**
 - 💬 Ask me about **SQL, Excel, Python**
 - 📫 **mansinishad123123@gmail.com**
@@ -48,67 +48,72 @@
 <td align="center"><img src="https://img.icons8.com/color/48/ms-excel.png" width="40"/><br>Advanced Excel</td>
 <td align="center"><img src="https://img.icons8.com/color/48/ms-excel.png" width="40"/><br>VBA</td>
 <td align="center"><img src="https://img.icons8.com/ios-filled/50/web.png" width="40"/><br>Web Scraping</td>
-<td></td>
-<td></td>
-<td></td>
+<td></td><td></td><td></td>
 </tr>
 </table>
+
+---
+
+## 📊 Skill Visualization
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['SQL','Excel','Python','Power BI','Visualization','Problem Solving'],datasets:[{label:'Skills',data:[85,90,80,75,85,88]}]}}" width="500"/>
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
 ### 📊 Sales Dashboard (Excel)
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/dashboard.gif" width="500"/>
+  <img src="assets/dashboard.gif" width="500"/>
 </p>
 
-✨ **Highlights**
-- Interactive dashboard with slicers  
-- KPIs: Revenue, Profit, Growth  
-- Automated reporting  
+✔ Interactive filters & slicers  
+✔ KPI tracking (Revenue, Profit)  
+✔ Automated reporting  
 
 🔗 [View Project](your-link)
 
 ---
 
 ### 🌍 Country Flag Selector
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/flag.gif" width="500"/>
+  <img src="assets/flag.gif" width="500"/>
 </p>
 
-✨ **Highlights**
-- Dynamic dropdown system  
-- Real-time flag update  
-- Clean UI design  
+✔ Dynamic dropdown system  
+✔ Real-time flag display  
 
 🔗 [View Project](your-link)
 
 ---
 
 ### 🏦 Banking Simulator (Python)
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/bank.gif" width="500"/>
+  <img src="assets/bank.gif" width="500"/>
 </p>
 
-✨ **Highlights**
-- Login authentication system  
-- Transaction handling  
-- SQLite database integration  
+✔ Login authentication  
+✔ Transaction system  
+✔ SQLite integration  
 
 🔗 [View Project](your-link)
 
 ---
 
 ### 📈 Python Data Analysis
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/analysis.gif" width="500"/>
+  <img src="assets/analysis.gif" width="500"/>
 </p>
 
-✨ **Highlights**
-- Data cleaning & EDA  
-- Visualization using Matplotlib  
-- Insight extraction  
+✔ Data cleaning & EDA  
+✔ Visualization using Matplotlib  
+✔ Insight generation  
 
 🔗 [View Project](your-link)
 
@@ -140,5 +145,5 @@
 ---
 
 <p align="center">
-✨ “Data is powerful when turned into meaningful insights.” ✨
+🚀 Always Learning | Always Building | Always Growing
 </p>
