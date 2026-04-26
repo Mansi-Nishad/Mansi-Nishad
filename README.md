@@ -1,141 +1,76 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mansi Nishad — Data Analyst</title>
-    <link href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=DM+Sans:wght@400;500&family=JetBrains+Mono&display=swap" rel="stylesheet">
-    
-    <style>
-        :root {
-            --pink: #f472b6; --purple: #a78bfa; --cyan: #22d3ee;
-            --bg: #07050f; --bg2: #0d0b1a; --border: rgba(167,139,250,0.15);
-            --text: #e2e8f0;
-        }
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,a78bfa,f472b6,22d3ee&height=200&section=header&text=Mansi%20Nishad&fontSize=70&fontAlignY=35&animation=twinkling" />
+</p>
 
-        body {
-            background: var(--bg);
-            color: var(--text);
-            font-family: 'DM Sans', sans-serif;
-            margin: 0; padding: 20px;
-        }
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=800&size=32&pause=1000&color=F472B6&center=true&vCenter=true&width=500&lines=Data+Analyst;Python+%26+SQL+Expert;Storyteller+with+Data;Turning+Data+into+Insights" alt="Typing SVG" />
+</h1>
 
-        .container { max-width: 800px; margin: 0 auto; }
+<p align="center">
+  <img src="https://img.shields.io/badge/Always-Learning-a78bfa?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Always-Building-f472b6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Always-Growing-22d3ee?style=for-the-badge&logo=rocket&logoColor=white" />
+</p>
 
-        /* HERO SECTION */
-        .hero {
-            position: relative;
-            background: var(--bg2);
-            border: 1px solid var(--border);
-            border-radius: 24px;
-            padding: 40px;
-            display: flex;
-            align-items: center;
-            gap: 30px;
-            overflow: hidden;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
-        }
+---
 
-        #matrixCanvas {
-            position: absolute; top: 0; left: 0;
-            width: 100%; height: 100%;
-            opacity: 0.15; pointer-events: none;
-        }
+### 👩🏻‍💻 Mara Vishe (About Me)
+<img align="right" width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I1ZmNjZTM5NTVhN2M4ZTRiYjNmYmFmOGU0YjYyZDUyYzU4YjY5NCZlcD12MV9pbnRlcm5hbF9naWZfcmVzb3VyY2VfYnlfaWQmY3Q9cw/L1SXPPe96XjN799e46/giphy.gif">
 
-        .avatar-wrap { position: relative; z-index: 2; }
-        
-        .avatar-img {
-            width: 150px; height: 150px;
-            border-radius: 50%;
-            border: 3px solid var(--pink);
-            object-fit: cover;
-            animation: float 4s ease-in-out infinite;
-        }
+- 🔭 **Haal ma:** Raw data ne actionable insights ma badlavva par kaam kari rahi chu.
+- 🌱 **Shikhi rahi chu:** Python Libraries (Pandas, NumPy) ane Big Data Analytics.
+- 🎓 **Training:** **Ducat Institute** mathi Data Analysis ni training lidhi che.
+- ⚡ **Vishwas:** Hu manu chu ke darek data ek varta kahe che, bas tene samjavani jarur che.
 
-        @keyframes float {
-            0%, 100% { transform: translateY(0); }
-            50% { transform: translateY(-10px); }
-        }
+---
 
-        .hero-text { z-index: 2; }
-        .hero-name { font-family: 'Syne', sans-serif; font-size: 2.5rem; margin: 0; }
-        .accent { color: var(--pink); }
+### 🛠️ Skills ane Tools
 
-        /* SKILLS */
-        .sk-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-top: 30px; }
-        .sk-card { background: var(--bg2); padding: 15px; border-radius: 12px; border: 1px solid var(--border); }
-        .sk-fill { height: 6px; border-radius: 10px; background: var(--purple); width: 0; transition: 2s; }
+**Data Analysis ane Visualization**
+<p>
+  <img src="https://img.shields.io/badge/Python-85%25-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-80%25-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-75%25-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-90%25-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+</p>
 
-        /* PROJECTS */
-        .proj-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 30px; }
-        .proj-card { 
-            background: var(--bg2); border: 1px solid var(--border); 
-            padding: 20px; border-radius: 15px; text-decoration: none; color: inherit;
-            transition: 0.3s;
-        }
-        .proj-card:hover { transform: translateY(-5px); border-color: var(--cyan); }
-    </style>
-</head>
-<body>
+**Tools**
+<p>
+  <code>Jupyter</code> <code>MySQL Workbench</code> <code>Anaconda</code> <code>Git</code> <code>Pandas</code> <code>Matplotlib</code>
+</p>
 
-<div class="container">
-    <div class="hero" id="hero">
-        <canvas id="matrixCanvas"></canvas>
-        <div class="avatar-wrap">
-            <img class="avatar-img" src="https://via.placeholder.com/150" alt="Mansi">
-        </div>
-        <div class="hero-text">
-            <p style="color: var(--cyan); font-family: 'JetBrains Mono';">DATA ANALYST</p>
-            <h1 class="hero-name">Mansi <span class="accent">Nishad</span></h1>
-            <p>Turning raw data into meaningful stories.</p>
-        </div>
-    </div>
+---
 
-    <div class="sk-grid">
-        <div class="sk-card">Excel <div class="sk-fill" style="width: 90%; background: var(--pink);"></div></div>
-        <div class="sk-card">SQL <div class="sk-fill" style="width: 85%; background: var(--purple);"></div></div>
-        <div class="sk-card">Python <div class="sk-fill" style="width: 80%; background: var(--cyan);"></div></div>
-        <div class="sk-card">Power BI <div class="sk-fill" style="width: 75%; background: #4ade80;"></div></div>
-    </div>
+### 🚀 Mara Projects
 
-    <div class="proj-grid">
-        <a href="#" class="proj-card">
-            <h3>📊 Sales Dashboard</h3>
-            <p>Advanced data visualization using Excel and Power BI.</p>
-        </a>
-        <a href="#" class="proj-card">
-            <h3>🐍 Python Automation</h3>
-            <p>Web scraping and data cleaning scripts.</p>
-        </a>
-    </div>
-</div>
+| 📊 Project Name | 🛠️ Tech Stack | 📝 Link |
+| :--- | :--- | :--- |
+| **Sales Dashboard** | `Excel` `Power BI` | [View Project](https://github.com/Mansi-Nishad/Sales-Analysis-Dashboard-Excel) |
+| **Interactive Dashboard** | `Excel` | [View Project](https://github.com/Mansi-Nishad/Interactive-Dashboard-Excel) |
+| **Banking Simulator** | `Python` | [View Project](https://github.com/Mansi-Nishad/Banking_Simulator-) |
 
-<script>
-    // Matrix Effect
-    const canvas = document.getElementById('matrixCanvas');
-    const ctx = canvas.getContext('2d');
-    canvas.width = window.innerWidth;
-    canvas.height = 400;
-    const letters = "010101PYTHONSQLDATA";
-    const fontSize = 10;
-    const columns = canvas.width / fontSize;
-    const drops = Array(Math.floor(columns)).fill(1);
+---
 
-    function draw() {
-        ctx.fillStyle = "rgba(7, 5, 15, 0.05)";
-        ctx.fillRect(0, 0, canvas.width, canvas.height);
-        ctx.fillStyle = "#a78bfa";
-        ctx.font = fontSize + "px monospace";
-        for (let i = 0; i < drops.length; i++) {
-            const text = letters[Math.floor(Math.random() * letters.length)];
-            ctx.fillText(text, i * fontSize, drops[i] * fontSize);
-            if (drops[i] * fontSize > canvas.height && Math.random() > 0.975) drops[i] = 0;
-            drops[i]++;
-        }
-    }
-    setInterval(draw, 33);
-</script>
+### 📈 GitHub Stats (Live)
 
-</body>
-</html>
-show output of thsi code
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mansi-Nishad&show_icons=true&theme=tokyonight&hide_border=true&title_color=f472b6&icon_color=22d3ee" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi-Nishad&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/mansi-nishad-0b745a259" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mansinishad123123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a78bfa&height=60&section=footer" />
+</p>
