@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- ████ MATRIX RAIN ANIMATED HEADER ████ -->
-<!-- Capsule render with dark matrix-like colors -->
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:07050f,20:0d0b1a,50:1a0535,80:0d0b1a,100:07050f&height=220&section=header&text=Mansi%20Nishad&fontSize=56&fontColor=ffffff&fontAlignY=50&animation=fadeIn&desc=──%20HI%20THERE%2C%20I%20AM%20──%20Aspiring%20Data%20Analyst%20✦%20Python%20·%20SQL%20·%20Power%20BI&descAlignY=70&descSize=13&fontAlign=50&descAlign=50)
 
 <!-- TYPING ANIMATION — matrix style phrases -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=800&color=F472B6&background=07050f00&center=true&vCenter=true&multiline=false&width=700&height=42&lines=Hi+There%2C+I+Am+Mansi+Nishad+%F0%9F%91%8B;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI+%F0%9F%93%8A;SELECT+*+FROM+opportunities+WHERE+passion+%3D+TRUE%3B;import+pandas+as+pd+%23+Data+is+my+language+%F0%9F%90%8D;df.groupby('region').sum()+%23+Insights+unlocked+%E2%9C%A6;Turning+Raw+Data+into+Meaningful+Stories+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!-- Matrix-style code line badge -->
-![](https://img.shields.io/badge/SELECT_*_FROM_skills_WHERE_passion_=_true-07050f?style=flat-square&logo=mysql&logoColor=22D3EE&labelColor=07050f&color=0d0b1a)
 
 </div>
 
@@ -50,58 +47,52 @@
 <td width="64%" valign="top">
 <br/>
 
-<!-- Matrix-style code intro — exactly like portfolio hero text -->
-```python
-# ── HI THERE, I AM ─────────────────────────────
-mansi = {
-    "name"     : "Mansi Nishad",
-    "role"     : "Aspiring Data Analyst",
-    "location" : "India 🇮🇳",
-    "focus"    : ["Dashboarding",
-                  "Data Visualization",
-                  "Actionable Insights"],
-    "tools"    : ["Excel", "SQL", "Python",
-                  "Power BI", "Jupyter"],
-    "learning" : "Python · Data Viz · Analytics",
-    "status"   : "Turning raw data into stories 📊",
-    "motto"    : "Always Learning | Always Building"
-}
-# SELECT * FROM mansi WHERE curiosity = '∞'
-```
-
-<br/>
-
 <!-- About Me dots — like portfolio -->
 🩷 &nbsp;Working on Data Analytics Projects  
+
 🟣 &nbsp;Learning Python, Data Viz & Analytics  
+
 🔵 &nbsp;Tools: Jupyter Notebook, MySQL Workbench  
+
 🟢 &nbsp;Focus: Dashboarding & Actionable Insights  
+
 🟠 &nbsp;Turning raw data into meaningful stories  
+
 ⚡ &nbsp;Always Learning | Always Building | Always Growing  
+
+🎓 &nbsp;Trained in Data Analytics from Ducat Institute <br/>
+
+🤖 &nbsp;Exploring Large Language Models (LLMs) & AI Architectures <br/>
+
+📚 &nbsp;Passionate about teaching Math & sharing knowledge <br/>
+
 
 </td>
 </tr>
 </table>
-
 ---
-
 <!-- MATRIX STYLE DIVIDER -->
-![](https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,25:a78bfa,50:22d3ee,75:4ade80,100:fbbf24&height=2&section=header)
 
 ## 📊 SKILL LEVELS
 
-```
+<br>
   ◈  Excel / Advanced   ████████████████████░  90%
+  <br>
   ◈  SQL                ███████████████████░░  85%
+  <br>
   ◈  Data Visualization ███████████████████░░  88%
+  <br>
   ◈  Python / Pandas    ████████████████░░░░░  80%
+  <br>
   ◈  Power BI           ███████████████░░░░░░  78%
+  <br>
   ◈  NumPy / SciPy      ██████████████░░░░░░░  75%
+  <br>
   ◈  Matplotlib         █████████████████░░░░  82%
+  <br>
   ◈  VBA / Macros       █████████████░░░░░░░░  70%
+  <br>
   ◈  Web Scraping       ████████████░░░░░░░░░  68%
-```
-
 ---
 
 ## 🛠️ TECH STACK
