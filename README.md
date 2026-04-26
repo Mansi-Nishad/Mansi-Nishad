@@ -1,94 +1,94 @@
-<!-- PREMIUM TOP BANNER -->
+<!-- 🔥 PREMIUM GRADIENT BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=200&section=header&text=Mansi%20Nishad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20|%20Turning%20Data%20into%20Insights&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=Mansi%20Nishad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20Turning%20Data%20into%20Insights&descAlignY=60&descAlign=50"/>
 </p>
 
-<h3 align="center">📊 Turning Data into Insights | Passionate Data Analyst</h3>
+<!-- ✨ BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analytics-Expert-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-Advanced-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Excel-Pro-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-Intermediate-orange?style=for-the-badge"/>
+</p>
+
+<h3 align="center">✨ Turning Data into Insights | Passionate Data Analyst ✨</h3>
 
 ---
 
 ## 👩‍💻 About Me
-- 🔭 Working on **Data Analytics Projects**
-- 🌱 Learning **Python, Data Visualization & Analytics**
-- 🧠 Tools: **Jupyter Notebook (Anaconda), MySQL Workbench**
-- 📊 Focus: **Dashboarding | Data Analysis | Insights**
-- ⚡ I enjoy turning raw data into meaningful stories
+- 🚀 Data Analytics Enthusiast focused on real-world problem solving  
+- 📊 Skilled in **SQL, Excel, Python, Power BI**  
+- 🧠 Tools: **Jupyter (Anaconda), MySQL Workbench**  
+- ⚡ Love converting messy data into meaningful insights  
 - 📫 **mansinishad123123@gmail.com**
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
-<table align="center">
-<tr>
-<td align="center">Power BI</td>
-<td align="center">Excel</td>
-<td align="center">Pandas</td>
-<td align="center">NumPy</td>
-<td align="center">Matplotlib</td>
-<td align="center">SciPy</td>
-</tr>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github&theme=dark"/>
+</p>
 
-<tr>
-<td align="center">MySQL</td>
-<td align="center">SQLite</td>
-<td align="center">Anaconda</td>
-<td align="center">Jupyter</td>
-<td align="center">Git</td>
-<td align="center">GitHub</td>
-</tr>
-
-<tr>
-<td align="center">Advanced Excel</td>
-<td align="center">VBA</td>
-<td align="center">Web Scraping</td>
-<td></td><td></td><td></td>
-</tr>
-</table>
+<p align="center">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 📊 Skill Visualization
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['SQL','Excel','Python','Power BI','Data Viz'],datasets:[{label:'Skill Level',backgroundColor:'rgba(0,247,255,0.5)',borderColor:'#00F7FF',data:[85,90,80,78,88]}]}}" width="500"/>
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['SQL','Excel','Python','Power BI','Visualization'],datasets:[{label:'Skills',backgroundColor:'rgba(0,255,255,0.2)',borderColor:'#00F7FF',data:[90,95,85,80,88]}]}}" width="500"/>
 </p>
 
 ---
 
 ## 💡 What I Do
-- 📊 Build dashboards that tell stories  
-- 🧹 Clean & transform messy data  
-- 📈 Generate actionable insights  
+✨ Build interactive dashboards  
+✨ Perform data cleaning & analysis  
+✨ Generate business insights  
 
 ---
 
 ## 📂 Featured Projects
 
-### 📊 Sales Analysis Dashboard
-🔗 https://github.com/Mansi-Nishad/Sales-Analysis-Dashboard-Excel
+### 🚀 📊 Sales Analysis Dashboard
+📌 Excel-based dynamic dashboard with KPIs & insights  
+🔗 https://github.com/Mansi-Nishad/Sales-Analysis-Dashboard-Excel  
 
 ---
 
 ### 📈 Interactive Dashboard
-🔗 https://github.com/Mansi-Nishad/Interactive-Dashboard-Excel
+📌 Advanced visualization with dynamic charts  
+🔗 https://github.com/Mansi-Nishad/Interactive-Dashboard-Excel  
 
 ---
 
 ### 🌍 Excel Mini Project
-🔗 https://github.com/Mansi-Nishad/Excel-Mini-Project
+📌 Country flag selector using dropdown logic  
+🔗 https://github.com/Mansi-Nishad/Excel-Mini-Project  
 
 ---
 
 ### 🏦 Banking Simulator
-🔗 https://github.com/Mansi-Nishad/Banking_Simulator-
+📌 Python + SQLite based banking system  
+🔗 https://github.com/Mansi-Nishad/Banking_Simulator-  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mansi-Nishad&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mansi-Nishad&show_icons=true&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansi-Nishad&theme=radical"/>
 </p>
 
 ---
@@ -97,12 +97,12 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/mansi-nishad-0b745a259">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
 
 ---
 
 <p align="center">
-🚀 Always Learning | Always Building | Always Growing
+🔥 Building Skills | Growing Daily | Becoming Better 🚀
 </p>
