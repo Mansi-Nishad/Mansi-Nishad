@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mansi Nishad</h1>
-
 <h3 align="center">🚀 Aspiring Data Analyst | Turning Data into Insights 📊</h3>
 
-<!-- FEMININE + PROFESSIONAL HERO -->
+<!-- HERO VISUAL (clean + data vibe) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="420"/>
-</p>
-
-<!-- TYPING EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=SQL+%7C+Excel+%7C+Python+%7C+Power+BI;Data+Analytics+Enthusiast;Building+Real+World+Projects" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="420"/>
 </p>
 
 <p align="center">
@@ -20,7 +14,7 @@
 
 ## 👩‍💻 About Me
 - 🔭 Working on **Data Analytics Projects**
-- 🌱 Learning **Python, Visualization & Analytics**
+- 🌱 Learning **Python, Data Visualization & Analytics**
 - 🧠 Tools: **Jupyter Notebook (Anaconda), MySQL Workbench**
 - 📊 Focus: **Data Analysis | Dashboarding | Insights**
 - ⚡ I enjoy turning raw data into meaningful stories
@@ -63,18 +57,21 @@
 ## 📊 Skill Visualization
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['SQL','Excel','Python','Power BI','Data Viz','Problem Solving'],datasets:[{label:'Skills',backgroundColor:'rgba(0,123,255,0.2)',borderColor:'#00F7FF',data:[85,90,80,78,88,87]}]}}" width="500"/>
+  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['SQL','Excel','Python','Power BI','Data Viz'],datasets:[{label:'Skills',data:[85,90,80,78,88]}]}}" width="500"/>
 </p>
+
+---
+
+## 💡 What I Do
+- 📊 Build dashboards that tell stories  
+- 🧹 Clean & transform messy data  
+- 📈 Turn data into actionable insights  
 
 ---
 
 ## 📂 Featured Projects
 
 ### 📊 Sales Analysis Dashboard (Excel)
-
-<p align="center">
-  <img src="assets/dashboard.gif" width="500"/>
-</p>
 
 ✔ Interactive filters & slicers  
 ✔ KPI tracking (Revenue, Profit)  
@@ -86,10 +83,6 @@
 
 ### 📈 Interactive Dashboard (Excel)
 
-<p align="center">
-  <img src="assets/interactive.gif" width="500"/>
-</p>
-
 ✔ Dynamic charts  
 ✔ Data visualization  
 ✔ Dashboard design  
@@ -100,10 +93,6 @@
 
 ### 🌍 Excel Mini Project
 
-<p align="center">
-  <img src="assets/flag.gif" width="500"/>
-</p>
-
 ✔ Dropdown-based selection  
 ✔ Real-time output  
 
@@ -112,10 +101,6 @@
 ---
 
 ### 🏦 Banking Simulator (Python)
-
-<p align="center">
-  <img src="assets/bank.gif" width="500"/>
-</p>
 
 ✔ Login authentication  
 ✔ Transactions system  
