@@ -1,22 +1,21 @@
 <h1 align="center">Hi 👋, I'm Mansi Nishad</h1>
-
 <h3 align="center">🚀 Aspiring Data Analyst | Turning Data into Insights 📊</h3>
 
-<!-- HERO GIF -->
+<!-- HERO VISUAL -->
 <p align="center">
-  <img src="https://media.giphy.com/media/6KirhLJyR7oMcwgJQk/giphy.gif" width="420"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Analytics+Enthusiast;SQL+%7C+Excel+%7C+Python+%7C+Power+BI;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=SQL+%7C+Excel+%7C+Python+%7C+Power+BI;Data+Analytics+Enthusiast;Building+Real+World+Projects" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 - 🔭 Working on **Data Analytics Projects**
-- 🌱 Learning **Python, Visualization & Analytics Tools**
+- 🌱 Learning **Python, Visualization & Analytics**
 - 🧠 Tools: **Jupyter Notebook (Anaconda), MySQL Workbench**
 - 💬 Ask me about **SQL, Excel, Python**
 - 📫 **mansinishad123123@gmail.com**
@@ -43,13 +42,6 @@
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br>Git</td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/><br>GitHub</td>
 </tr>
-
-<tr>
-<td align="center"><img src="https://img.icons8.com/color/48/ms-excel.png" width="40"/><br>Advanced Excel</td>
-<td align="center"><img src="https://img.icons8.com/color/48/ms-excel.png" width="40"/><br>VBA</td>
-<td align="center"><img src="https://img.icons8.com/ios-filled/50/web.png" width="40"/><br>Web Scraping</td>
-<td></td><td></td><td></td>
-</tr>
 </table>
 
 ---
@@ -57,14 +49,14 @@
 ## 📊 Skill Visualization
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['SQL','Excel','Python','Power BI','Visualization','Problem Solving'],datasets:[{label:'Skills',data:[85,90,80,75,85,88]}]}}" width="500"/>
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['SQL','Excel','Python','Power BI','Visualization'],datasets:[{data:[85,90,80,75,85]}]}}" width="500"/>
 </p>
 
 ---
 
 ## 📂 Featured Projects
 
-### 📊 Sales Dashboard (Excel)
+### 📊 Sales Analysis Dashboard (Excel)
 
 <p align="center">
   <img src="assets/dashboard.gif" width="500"/>
@@ -72,22 +64,36 @@
 
 ✔ Interactive filters & slicers  
 ✔ KPI tracking (Revenue, Profit)  
-✔ Automated reporting  
+✔ Business insights  
 
-🔗 [View Project](your-link)
+🔗 https://github.com/Mansi-Nishad/Sales-Analysis-Dashboard-Excel
 
 ---
 
-### 🌍 Country Flag Selector
+### 📈 Interactive Dashboard (Excel)
+
+<p align="center">
+  <img src="assets/interactive.gif" width="500"/>
+</p>
+
+✔ Dynamic charts  
+✔ Data visualization  
+✔ Dashboard design  
+
+🔗 https://github.com/Mansi-Nishad/Interactive-Dashboard-Excel
+
+---
+
+### 🌍 Excel Mini Project (Flag Selector)
 
 <p align="center">
   <img src="assets/flag.gif" width="500"/>
 </p>
 
-✔ Dynamic dropdown system  
-✔ Real-time flag display  
+✔ Dropdown-based selection  
+✔ Real-time output  
 
-🔗 [View Project](your-link)
+🔗 https://github.com/Mansi-Nishad/Excel-Mini-Project
 
 ---
 
@@ -98,24 +104,10 @@
 </p>
 
 ✔ Login authentication  
-✔ Transaction system  
-✔ SQLite integration  
+✔ Transactions system  
+✔ SQLite database  
 
-🔗 [View Project](your-link)
-
----
-
-### 📈 Python Data Analysis
-
-<p align="center">
-  <img src="assets/analysis.gif" width="500"/>
-</p>
-
-✔ Data cleaning & EDA  
-✔ Visualization using Matplotlib  
-✔ Insight generation  
-
-🔗 [View Project](your-link)
+🔗 https://github.com/Mansi-Nishad/Banking_Simulator-
 
 ---
 
@@ -125,20 +117,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mansi-Nishad&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansi-Nishad&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/mansi-nishad">
+<a href="https://linkedin.com/in/mansi-nishad-0b745a259">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
-</a>
-<a href="https://instagram.com/mansi_nishad_16">
-<img src="https://img.shields.io/badge/Instagram-pink?logo=instagram"/>
 </a>
 </p>
 
