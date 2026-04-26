@@ -1,14 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mansi Nishad</h1>
+
 <h3 align="center">🚀 Aspiring Data Analyst | Turning Data into Insights 📊</h3>
 
-<!-- HERO VISUAL -->
+<!-- FEMININE + PROFESSIONAL HERO -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="420"/>
 </p>
 
-<!-- TYPING -->
+<!-- TYPING EFFECT -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=SQL+%7C+Excel+%7C+Python+%7C+Power+BI;Data+Analytics+Enthusiast;Building+Real+World+Projects" />
+</p>
+
+<p align="center">
+✨ Transforming Data into Decisions | Passionate Learner | Future Data Analyst ✨
 </p>
 
 ---
@@ -17,6 +22,8 @@
 - 🔭 Working on **Data Analytics Projects**
 - 🌱 Learning **Python, Visualization & Analytics**
 - 🧠 Tools: **Jupyter Notebook (Anaconda), MySQL Workbench**
+- 📊 Focus: **Data Analysis | Dashboarding | Insights**
+- ⚡ I enjoy turning raw data into meaningful stories
 - 💬 Ask me about **SQL, Excel, Python**
 - 📫 **mansinishad123123@gmail.com**
 
@@ -42,6 +49,13 @@
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br>Git</td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/><br>GitHub</td>
 </tr>
+
+<tr>
+<td align="center"><img src="https://img.icons8.com/color/48/ms-excel.png" width="40"/><br>Advanced Excel</td>
+<td align="center"><img src="https://img.icons8.com/color/48/ms-excel.png" width="40"/><br>VBA</td>
+<td align="center"><img src="https://img.icons8.com/ios-filled/50/web.png" width="40"/><br>Web Scraping</td>
+<td></td><td></td><td></td>
+</tr>
 </table>
 
 ---
@@ -49,7 +63,7 @@
 ## 📊 Skill Visualization
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['SQL','Excel','Python','Power BI','Visualization'],datasets:[{data:[85,90,80,75,85]}]}}" width="500"/>
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['SQL','Excel','Python','Power BI','Data Viz','Problem Solving'],datasets:[{label:'Skills',backgroundColor:'rgba(0,123,255,0.2)',borderColor:'#00F7FF',data:[85,90,80,78,88,87]}]}}" width="500"/>
 </p>
 
 ---
@@ -84,7 +98,7 @@
 
 ---
 
-### 🌍 Excel Mini Project (Flag Selector)
+### 🌍 Excel Mini Project
 
 <p align="center">
   <img src="assets/flag.gif" width="500"/>
