@@ -166,6 +166,29 @@
 
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+
+### 🚨 SHAKTI: Crime Against Women Dashboard
+> Interactive Power BI dashboard analyzing women safety trends, crime patterns & state-wise insights across India
+
+[![View Repo](https://img.shields.io/badge/View_Repo-F472B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mansi-Nishad/SHAKTI-Crime-Against-Women-PowerBI---SHAKTI-Crime-Against-Women-PowerBI)
+
+`Power BI` &nbsp;`DAX` &nbsp;`Data Visualization` &nbsp;`Analytics`
+
+</td>
+<td width="50%">
+
+### 👨‍💼 Employee Attrition Dashboard
+> Interactive HR analytics dashboard to analyze employee attrition patterns & workforce insights
+
+[![View Repo](https://img.shields.io/badge/View_Repo-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mansi-Nishad/Employee-Attrition-Dashboard-PowerBI--Employee-Attrition-Dashboard-PowerBI)
+
+`Power BI` &nbsp;`HR Analytics` &nbsp;`DAX` &nbsp;`Dashboard`
+
+</td>
+</tr>
 </table>
 
 ---
